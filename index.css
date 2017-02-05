@@ -1,0 +1,30 @@
+body{
+	background-color: lavenderblush;
+	font: "Gill Sans Extrabold", Helvetica, sans-seri;
+}
+
+h1{
+	text-align:center;
+	color: lightslategrey;	
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	line-height: 26.4px;
+}
+
+p{
+	text-align: center;
+	color: lightsteelblue;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+hr{
+	width: 80%;
+}
